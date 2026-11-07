@@ -349,7 +349,7 @@ Never commit database passwords, API keys or connection credentials to GitHub.
 Open:
 
 ```text
-dashboard/Token_Analytics.pbix
+Power BI Dashboard/Token analytics.jpeg
 ```
 
 using Microsoft Power BI Desktop.
