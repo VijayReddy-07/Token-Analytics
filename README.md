@@ -348,9 +348,7 @@ Never commit database passwords, API keys or connection credentials to GitHub.
 
 ## 📊 Power BI Dashboard
 
-[![Token Analytics Dashboard](<Power BI Dashboard/Token_Analytics.jpeg>)](<Power BI Dashboard/Token_Analytics.jpeg>)
-
-[🔍 Click here to view the full dashboard image](<Power BI Dashboard/Token_Analytics.jpeg>)
+<img width="884" height="499" alt="image" src="https://github.com/user-attachments/assets/e89c3fb3-5726-4d7e-bf58-7634f0955767" />
 
 using Microsoft Power BI Desktop.
 
