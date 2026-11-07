@@ -346,11 +346,11 @@ Never commit database passwords, API keys or connection credentials to GitHub.
 
 ### 6. Open the Power BI Dashboard
 
-Open:
+## 📊 Power BI Dashboard
 
-```text
-Power BI Dashboard/Token analytics.jpeg
-```
+[![Token Analytics Dashboard](<Power BI Dashboard/Token_Analytics.jpeg>)](<Power BI Dashboard/Token_Analytics.jpeg>)
+
+[🔍 Click here to view the full dashboard image](<Power BI Dashboard/Token_Analytics.jpeg>)
 
 using Microsoft Power BI Desktop.
 
